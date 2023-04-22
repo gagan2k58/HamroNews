@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/HamroNews/static/css/main.abd64e84.css",
+    "main.js": "/HamroNews/static/js/main.8dd58f7e.js",
+    "static/js/787.4c026eef.chunk.js": "/HamroNews/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/HamroNews/static/media/loading.9b54f7608588a55f4fd4.gif",
+    "index.html": "/HamroNews/index.html",
+    "main.abd64e84.css.map": "/HamroNews/static/css/main.abd64e84.css.map",
+    "main.8dd58f7e.js.map": "/HamroNews/static/js/main.8dd58f7e.js.map",
+    "787.4c026eef.chunk.js.map": "/HamroNews/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.8dd58f7e.js"
+  ]
+}
